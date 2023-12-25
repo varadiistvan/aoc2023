@@ -155,6 +155,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "day14"
+version = "0.1.0"
+
+[[package]]
 name = "day2"
 version = "0.1.0"
 
@@ -291,9 +295,9 @@ dependencies = [
 
 [[package]]
 name = "memoize"
-version = "0.4.1"
+version = "0.4.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7500eb334b820fcb9d8bfb9061d75fe910ed6302f690b24f3abaa133a581479c"
+checksum = "5df4051db13d0816cf23196d3baa216385ae099339f5d0645a8d9ff2305e82b8"
 dependencies = [
  "lazy_static",
  "lru",
